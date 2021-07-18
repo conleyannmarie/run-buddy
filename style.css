@@ -57,7 +57,7 @@ footer h2 {
 footer div {
     float: right;
     line-height: 1.5;
-    text-alignL right;
+    text-align: right;
 }
 
 footer a {
